@@ -1,0 +1,120 @@
+#main-slider-container {
+    width: 94%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-left: 3%;
+    /* background-color: black; */
+  }
+  
+  #slider {
+    width: 100%;
+    height: 100%;
+    white-space: nowrap;
+    overflow-x: scroll;
+    scrollbar-width: none;
+    scroll-behavior: smooth;
+    border-radius: 50px 50px 00px 00px;
+
+  }
+  
+  #slider::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .slider-certificate {
+    margin: 20px;
+    width: 40vb;
+    height: 55vb;
+    background: rgb(222, 215, 215);
+    border-radius: 10px;
+    display: inline-block;
+    margin-left: 3vb;
+    margin-right: 3vb;
+    box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 12%);
+  }
+
+  .slider-certificate:first-child{
+    margin-left: 0;
+  }
+  
+  .slider-certificate-image {
+    width: 100%;
+    height: 100%; /* Adjusted the height for portrait images */
+    background: #ebebebb3;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .slider-certificate-title {
+    font-weight: 500;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  .slider-certificate-description {
+    opacity: 0.8;
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  
+  .slider-certificate-awardedDate {
+    opacity: 0.8;
+    font-size: 10px;
+    margin-left: 10px;
+    margin-top: 8px;
+  }
+  
+  .slider-icon.left,
+  .slider-icon.right {
+    background: rgb(255, 255, 255);
+    border-radius: 100%;
+    position: absolute;
+    /* opacity: 0.5; */
+    box-shadow: 2px 2px 2px 2px rgb(0 0 0 / 12%);
+    cursor: pointer;
+  }
+  
+  .slider-icon.left {
+    left: 0;
+  }
+  
+  .slider-icon.right {
+    right: 0;
+  }
+  
+  .slider-icon.left:hover,
+  .slider-icon.right:hover {
+    opacity: 1;
+  }
+  
+  /* Media Query for Small Screens */
+  @media (max-width: 767px) {
+    .slider-certificate {
+        width: 150px; /* Adjust the width for smaller screens */
+        height: 250px; /* Adjust the height for smaller screens */
+        margin-left: 3px; /* Adjust the margins for spacing */
+        margin-right: 3px; /* Adjust the margins for spacing */
+    }
+  
+    .slider-certificate-image {
+        height: 150px; /* Adjusted the height for smaller screens */
+    }
+  }
+  
+  /* Add this CSS block to highlight the card on hover */
+  .slider-certificate:hover {
+    /* transform: scale(1.01); /* Increase the scale to create a zoom effect */
+    /* z-index: 10; Bring the hovered card to the front  */
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2); /* Add a shadow effect */
+  }
+  
+  /* Rest of your existing CSS code */
+  
+  /* Media Query for Small Screens */
+  @media (max-width: 797px){
+  }
+  

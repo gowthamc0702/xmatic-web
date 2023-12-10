@@ -1,0 +1,376 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 09:43:53] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 09:50:59] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 09:54:17] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 09:59:37] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 10:00:02] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 10:13:24] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 10:14:17] "POST /api/certifications/award/10 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 10:19:14] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 10:21:38] "POST /api/certifications/award/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 10:21:52] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 11:36:31] "[33mPOST /api/certifications/awards/10 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 11:36:46] "POST /api/certifications/award/10 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 11:37:08] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 20:35:44] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 20:39:17] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 20:42:07] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 20:43:40] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 20:44:44] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 21:17:44] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 21:18:15] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 21:19:35] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [01/Sep/2023 21:21:35] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [02/Sep/2023 13:49:38] "[35m[1mPOST /candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [02/Sep/2023 14:01:35] "[35m[1mPOST /candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [02/Sep/2023 14:01:56] "[35m[1mPOST /candidate/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [02/Sep/2023 14:05:26] "[35m[1mPOST /candidate/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [02/Sep/2023 14:06:04] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [02/Sep/2023 14:10:07] "GET /api/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 798-599-783
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-306-517
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 11:41:12] "GET /about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 17:51:48] "[31m[1mGET /about_us/candidate/add HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 17:51:56] "[35m[1mPOST /about_us/candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:32:09] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:32:14] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:32:30] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:32:35] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:10] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:13] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:14] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:16] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:17] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:18] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 18:37:20] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 19:15:55] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 19:15:59] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 20:32:05] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 20:32:09] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 20:32:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 20:32:12] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 20:53:06] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Sep/2023 20:53:10] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 11:28:01] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 11:28:06] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 14:06:45] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 14:06:50] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 16:58:43] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 16:58:46] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 17:10:54] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 17:10:57] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 21:19:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Sep/2023 21:19:14] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-306-517
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 18:57:02] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 18:57:03] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 18:57:04] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 19:21:41] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 19:21:45] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 19:45:53] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 19:45:53] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 19:46:56] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 19:47:00] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:01:48] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:02:07] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:02:50] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:05:01] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:05:19] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:05:32] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:06:10] "GET /about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:06:24] "[31m[1mPOST /about_us/certifications HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:06:48] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:07:40] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:07:43] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:08:52] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:49:10] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:49:40] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:49:53] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\GOWTHAM\\Desktop\\git4\\xmatic-web\\frontend\\xmatic-frontend\\web-backend\\app\\routes\\certification_routes.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-306-517
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:51:45] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:52:35] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:52:44] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 20:53:12] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:11:52] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:11:52] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:13:35] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:13:35] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:14:37] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:14:37] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:17:06] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:17:06] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:20:49] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:20:50] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:26:18] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:26:21] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:27:11] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:27:19] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:34:16] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 21:34:19] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:50:00] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:50:03] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:50:57] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:51:02] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:51:07] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:51:35] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:51:42] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:53:02] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:53:08] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:54:17] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:54:28] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [11/Sep/2023 23:56:52] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-306-517
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:27:04] "[35m[1mPOST /about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:29:10] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:29:13] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:29:14] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:33:07] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:33:08] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:41:05] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:41:07] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:41:10] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:42:40] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:42:41] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:43:38] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:43:39] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:44:38] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:44:39] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:44:49] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:44:50] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:45:31] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:45:31] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:45:52] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:45:53] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:47:03] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:47:04] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:51:43] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:51:44] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:54:47] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:55:07] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:57:43] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:57:47] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:57:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:58:09] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:58:18] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:58:22] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:58:36] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 18:58:38] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:30:18] "[31m[1mPOST /about_us/contact_details HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:30:29] "[31m[1mPOST /about_us/contact_details/specific HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:31:05] "[35m[1mPOST /about_us/candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:41:06] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:41:33] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:41:55] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:42:32] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:45:40] "[35m[1mPOST /about_us/candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 19:46:02] "[35m[1mPOST /about_us/candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:22:29] "[35m[1mPOST /about_us/candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:39:34] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:39:37] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:40:35] "[35m[1mPOST /about_us/candidate/add HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:41:02] "[35m[1mPOST /about_us/candidate/add HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:57:34] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:57:35] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:57:52] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:57:56] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:58:21] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 20:58:25] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:40:59] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:41:02] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:41:05] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:41:07] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:13] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:14] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:55] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:56] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:57] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:44:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:13] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:14] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:16] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:24] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:25] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:26] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:28] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:50] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:45:51] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:48:26] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:48:27] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:48:28] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:48:29] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:49:56] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:49:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:50:03] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:50:05] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:50:07] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:50:08] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:50:57] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:50:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:51:00] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:51:01] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:58:37] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:58:40] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:58:44] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 21:58:44] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 22:12:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 22:12:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 22:13:16] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 22:13:30] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 22:13:42] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 22:13:47] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 23:57:36] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 23:57:41] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 23:57:50] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Sep/2023 23:57:59] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 00:03:49] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 00:19:34] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 00:27:26] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 00:27:38] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 23:02:27] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 23:02:32] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-306-517
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 08:20:29] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 08:20:29] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 09:01:15] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 09:01:18] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 11:19:59] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 11:20:03] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 15:57:47] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 15:57:51] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 19:04:59] "OPTIONS //about_us/ask_me/post_question HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 19:05:06] "[35m[1mPOST //about_us/ask_me/post_question HTTP/1.1[0m" 201 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 829-454-671
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 17:18:19] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 17:18:20] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 829-454-671
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 17:19:01] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 17:19:02] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 17:19:03] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:48:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:49:03] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:49:10] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:49:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:49:26] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:49:27] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:51:12] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:51:15] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:51:58] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:51:59] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:52:09] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 22:52:11] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 23:04:14] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 23:04:25] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 23:04:25] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 23:04:25] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Sep/2023 23:04:26] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Sep/2023 14:08:51] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Sep/2023 14:08:55] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-306-517
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2023 13:50:03] "GET //about_us/certifications HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Dec/2023 13:50:04] "GET //about_us/certifications HTTP/1.1" 200 -

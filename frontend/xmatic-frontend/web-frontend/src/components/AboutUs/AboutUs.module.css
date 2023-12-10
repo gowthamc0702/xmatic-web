@@ -1,0 +1,99 @@
+.container {
+    width: 100%;
+    height: 35vh;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.imageText {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+    border-radius: 5px;
+    width: 56vw; /* Use vw instead of vb */
+}
+
+.imageText h2 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.imageText p {
+    /* left: 50%; */    
+    font-size: 1.5rem;
+    /* max-width: 400px; */
+}
+
+/* Media Queries */
+@media screen and (max-width: 1440px) {
+    .imageText h2 {
+        font-size: 2.5rem;
+    }
+    .imageText p {
+        font-size: 1.5rem;
+    }
+    .imageText {
+        top: 50%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .container {
+        height: 30vh;
+    }
+    .imageText h2 {
+        font-size: 2rem;
+    }
+    .imageText p {
+        font-size: 1rem;
+    }
+    .imageText {
+        top: 45%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        height: 30vh;
+    }
+    .imageText h2 {
+        font-size: 2rem;
+    }
+    .imageText p {
+        font-size: 0.8rem;
+    }
+    .imageText {
+        top: 40%;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .container {
+        height: 30vh;
+    }
+    .image {
+        height: 100%;
+    }
+    .imageText {
+        width: 80%;
+        top: 40%;
+    }
+    .imageText h2 {
+        font-size: 1rem;
+    }
+    .imageText p {
+        font-size: 0.7rem;
+    }
+}
+
+/* Continue with the rest of your media queries */

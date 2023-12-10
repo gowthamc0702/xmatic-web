@@ -1,0 +1,101 @@
+/* Styles for larger screens */
+.location-container {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  overflow-x: auto;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+.location-card-container {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  max-width: 100%;
+  overflow-x: auto;
+  margin: 40px;
+  margin-top: -10px;
+  margin-left: 10px;
+}
+
+.location-content {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.p-card-image {
+  max-width: 70%; /* Set a constant width for the images */
+  height: auto;
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+}
+
+.p-card-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #4a7bed;
+  margin-top: 10px;
+}
+
+.p-card-subtitle {
+  padding: 5px;
+  background: none;
+}
+
+.p-card-subtitle .subtitle,
+.p-card-subtitle .description {
+  color: #4a7bed;
+  font-weight: bold;
+  margin-left: -10px;
+}
+
+.p-card-subtitle .subtitle {
+  font-size: 1.5rem;
+}
+
+.p-card-subtitle .description {
+  font-size: 1.8rem;
+  background-color: beige;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  .location-container {
+    flex-direction: column;
+    align-items: center;
+    padding: 10px; /* Reduce padding for spacing */
+    margin-top: 10px; /* Reduce margin-top */
+    box-shadow: none; /* Remove the box shadow */
+  }
+
+  .location-card-container {
+    margin: 10px; /* Reduce margin for spacing */
+    align-items: center; /* Center cards vertically */
+    overflow-x: hidden; /* Hide horizontal overflow */
+  }
+
+  .p-card-image {
+    max-width: 100%; /* Adjust image width to fit the container */
+    height: auto;
+    border-radius: 10px; /* Apply border radius to all corners */
+  }
+
+  .p-card-title {
+    font-size: 1.2rem; /* Decrease title font size */
+    margin-top: 10px; /* Increase margin-top for spacing */
+    text-align: center; /* Center the title text */
+    color: #333; /* Use a darker text color for better readability */
+  }
+
+  .p-card-subtitle {
+    font-size: 1rem; /* Decrease subtitle font size */
+    padding: 5px;
+    background: none;
+    margin-top: 5px; /* Increase margin-top for spacing */
+    text-align: center; /* Center the subtitle text */
+  }
+}
